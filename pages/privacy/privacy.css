@@ -4,7 +4,7 @@
 
 .main {
   width: 75.2rem;
-  height: 136rem;
+  height: 146rem;
 }
 .section-date {
   font-family: "Poppins", sans-serif;
@@ -17,11 +17,12 @@
   margin-bottom: 2rem;
 }
 .section-info {
-  height: 16.8rem;
   margin-bottom: 3rem;
 }
 .section-info-2 {
-  height: 11.2rem;
+  margin-bottom: 4rem;
+}
+p{
   margin-bottom: 4rem;
 }
 h2 {
@@ -35,12 +36,10 @@ h2 {
   margin-bottom: 2rem;
 }
 .section2_paragraph {
-  height: 25.2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 .section2_paragraph2 {
-  height: 16.8rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 .section3-paragraph {
   height: 25.2rem;
